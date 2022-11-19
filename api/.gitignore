@@ -1,9 +1,3 @@
 # dependencies
 /node_modules
-
-# misc
 .env
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
